@@ -1,0 +1,3 @@
+$ git init
+$ echo "Hello, Git!" > README. md
+
